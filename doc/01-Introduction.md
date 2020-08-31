@@ -67,7 +67,7 @@ Below you will find a list of currently available modules published by the Icing
 
 | Icinga PowerShell Kickstart | Icinga PowerShell Framework | Icinga PowerShell Plugins |
 | --- | --- | --- |
-| [![Kickstart](images\02_icons\kickstart.png)](https://icinga.com/docs/windows/latest/kickstart/doc/01-Introduction/) | [![Frame](images\02_icons\framework.png)](https://icinga.com/docs/windows/latest/doc/02-Installation/) | [![Frame](images\02_icons\plugins.png)](https://icinga.com/docs/windows/latest/plugins/doc/01-Introduction/) |
+| [![Kickstart](images/02_icons/kickstart.png)](https://icinga.com/docs/windows/latest/kickstart/doc/01-Introduction/) | [![Frame](images\02_icons\framework.png)](https://icinga.com/docs/windows/latest/doc/02-Installation/) | [![Frame](images\02_icons\plugins.png)](https://icinga.com/docs/windows/latest/plugins/doc/01-Introduction/) |
 
 ### Extensions
 
